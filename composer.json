@@ -1,0 +1,17 @@
+{
+    "name": "shahersar/chess",
+    "autoload": {
+        "psr-4": {
+            "Shahersar\\Chess\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Shaher Sarairah",
+            "email": "shahersar@icloud.com"
+        }
+    ],
+    "require": {
+      "ext-readline": "*"
+    }
+}
